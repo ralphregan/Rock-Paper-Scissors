@@ -1,0 +1,25 @@
+.well{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: aqua;
+    font-size: 80px;
+    font-style: italic;
+    
+}
+.btn{
+    background-color: bisque;
+    color: brown;
+    text-align: center;
+    font-size: 50px;
+   
+}
+.btn-div{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    
+}
+h2{
+    text-align: center;
+}
